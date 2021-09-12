@@ -32,7 +32,9 @@ Jak vybrat nejleší DEXes pro arbitráž
 Ziskovost arbitráží
 +++++++++++++++++++
 
-- Spočtěme ziskovost některých arbitrážních příležitostí
+- Identifikujeme arbitráže mezi blokem X a Z
+- Rozparsujeme jejich events, spočítáme profit a uložíme k transakcím do souboru
+- Pak použijeme `jq` a uděláme si základní přehled
 
 
 See also
