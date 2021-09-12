@@ -1,6 +1,12 @@
 Část A - Úvod do MEV a arbitráží
 ================================
 
+USAGE
+=====
+
+cd js
+node cli/collect_arbitrage.js
+
 
 ChainKeepers
 ++++++++++++
