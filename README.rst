@@ -40,7 +40,7 @@ S sebou přineste v počítači
 
 - notebook, na kterém běží git, node.js a yarn
 - naklonujte si (https://github.com/chainkeepers/20210918_workshop_dex_arb) - budeme připravovat na začátku září
-- nainstalujte potřebné node balíčky: "cd 20210918_workshop_dex_arb; yarn install"
+- nainstalujte potřebné node balíčky: "cd 20210918_workshop_dex_arb; make"
 
 
 Doporučujeme si přečíst
