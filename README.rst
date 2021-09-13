@@ -47,6 +47,6 @@ Doporučujeme si přečíst
 =======================
 
 - https://docs.soliditylang.org/en/v0.8.7/introduction-to-smart-contracts.html
-- https://codeburst.io/deep-dive-into-ethereum-logs-a8d2047c7371
+- https://docs.ethers.io/v5/concepts/events
 - https://soliditydeveloper.com/blog
-- https://docs.soliditylang.org/en/v0.8.7
+- https://codeburst.io/deep-dive-into-ethereum-logs-a8d2047c7371
