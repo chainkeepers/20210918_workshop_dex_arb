@@ -14,7 +14,7 @@ Jak poznat arbitráž na etherscanu
 - Kouknu na začátek bloku a učím se...
 
 
-Jak posbírat všechny arbitráže, které probehly
+Jak posbírat všechny arbitráže, které proběhly
 ++++++++++++++++++++++++++++++++++++++++++++++
 
 - Pokusíme se stáhnout všechny arbitráže mezi Uniswap V2 a Uniswap V3
