@@ -5,6 +5,7 @@ Z čeho se skládá zisková arbitráž
 +++++++++++++++++++++++++++++++++
 
 - správné načasování, periodické vyhledávání příležitosti
+  - v okamžiku nalezení vyvolání ziskové transakce
 - místo, pár, objem -> <- jiné místo, (obrácený )pár, týž objem.
 
 Jak se zorientovat v dokumentaci DEXů a Solidity
