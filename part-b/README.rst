@@ -4,23 +4,25 @@
 Z čeho se skládá zisková arbitráž
 +++++++++++++++++++++++++++++++++
 
-- správné načasování, periodické vyhledávání příležitosti
-  - v okamžiku nalezení vyvolání ziskové transakce
-- místo, pár, objem -> <- jiné místo, (obrácený )pár, týž objem.
+- série tradů tak, ze výsledná pozice je 0 všude, až na jeden asset, kde zůstane zisk
+- najdu příležitost k ziskové arbitráži
+- v okamžiku nalezení poslu transakci na kontrakt, který sérii swapů udělá
+
+Arbitrážovací solidity contract
++++++++++++++++++++++++++++++++
+
+- vytvoření obslužného kódu pomocí `hardhat`
+- napsat funkci, jež umožní provést obě směny v 1 transakci
+- začínáme s co nejjednodušší funkčností
+
 
 Jak se zorientovat v dokumentaci DEXů a Solidity
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Google "<DEX name> solidity" např. https://www.google.com/search?q=uniswap+v3+solidity 
-- trh jako konkrétní místo směny vs. router
-- pozorumění sample kódu, druhy proměnných, globální proměnné
+- Router contract <> Pair contract
+- Pozorumění sample kódu, druhy proměnných, globální proměnné
 
-arbitrážovací solidity contract
-++++++++++++++++++++++++++++++++++++++++++++++
-
-- vytvoření obslužného kódu pomocí `hardhat`
-- napsat funkci, jež umožní provést obě směny v 1 transakci
-- začínáme s co nejjednodušší funkčností
 
 provedení arbitráže na testnetu
 +++++++++++++++++++++++++++++++
