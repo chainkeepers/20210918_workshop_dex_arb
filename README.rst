@@ -5,6 +5,9 @@ Délka: 2x 45min
 
 Lektoři: Ondřej Vostal a Martin Vlach (www.chainkeepers.io)
 
+Prezentace: https://chainkeepers.github.io/20210918_workshop_dex_arb/intro
+
+
 Na co se můžete těšit
 =====================
 
