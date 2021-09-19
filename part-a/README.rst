@@ -1,11 +1,28 @@
 Část A - Úvod do MEV a arbitráží
 ================================
 
+
+ChainKeepers
+++++++++++++
+
+vize
+^^^^
+Být významným tvůrcem cen a stabilizátorem DeFi.
+
+
+technologie
+^^^^^^^^^^^
+
+Go, Rust, Solidity, Python, Pandas, Grafana, Javascript, Ansible...
+
+Chceš se přídat? => https://www.chainkeepers.io/cs/hiring
+
+
 Co je MEV
 +++++++++
 
 - MEV je Maximal Extractable Value.
-- MEV je zisk z přerovnání transakcí v bloku
+- MEV je zisk z přerovnání transakcí v bloku.
 
 
 Jak poznat arbitráž na etherscanu
